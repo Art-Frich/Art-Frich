@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, my name is Artem 👋
+
+* ✨ Начинающий front-end-developer.
+* 🐾 Понемногу разбираюсь с возможностями github.
+* 👀 Нравится строить причинно-следственные цепочки и создавать логичный и нативно понятный код.
+* ⌛ Сейчас разбираюсь в React.
+* 😄 Подрабатываю репетитором по физике, математике и информатике.
 
 <!--
 **Art-Frich/Art-Frich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+! Your Repository's Stats (https://github-readme-stats.vercel.app/api?Art-Frich=Your_GitHub_Username&show_icons=true
+! Your Repository's Stats (https://github-readme-stats.vercel.app/api/top-langs/?Art-Frich=Your_GitHub_Username&theme=blue-green
+! Profile View Counter (https://komarev.com/ghpvc/?Art-Frich=Your_GitHub_Username

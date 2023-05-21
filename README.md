@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-! Your Repository's Stats (https://github-readme-stats.vercel.app/api?Art-Frich=Your_GitHub_Username&show_icons=true
-! Your Repository's Stats (https://github-readme-stats.vercel.app/api/top-langs/?Art-Frich=Your_GitHub_Username&theme=blue-green
-! Profile View Counter (https://komarev.com/ghpvc/?Art-Frich=Your_GitHub_Username
+! Your Repository's Stats (https://github-readme-stats.vercel.app/api?Art-Frich&show_icons=true)
+! Your Repository's Stats (https://github-readme-stats.vercel.app/api/top-langs/?Art-Frich&theme=blue-green)
+! Profile View Counter (https://komarev.com/ghpvc/?Art-Frich)

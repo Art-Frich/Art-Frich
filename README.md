@@ -20,8 +20,8 @@
 <img height="21px" src="https://img.shields.io/badge/@Frich22-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 <img height="21px" src="https://img.shields.io/badge/frich.g22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
-
-### 👀 My some projects
+<hr>
+<h3 align="center">👀 My some projects</h3>
 * Последний проект в рамках "пробы сил" - тестовый кейс для Neoflex.
      - Функционал: добавить позицию товара в корзину по кнопке "купить", перейти в корзину по клику на иконку, удалять позиции в корзине и изменять их количество.
      - Использовано: ванильный JS, HTML5, CSS3, Git, sessionStorage.
@@ -32,7 +32,7 @@
      - Использовано: ванильный JS, CSS3, HTML5, jQuery.
      - Ссылка на проект: https://art-frich.github.io/project-find-a-pair/
 
-### 🏆 My Stats
+<h3 align="center">🏆 My Stats</h3>
 <!-- https://github-readme-stats-ruby-one.vercel.app -->
 <!-- github-readme-stats-sigma-five.vercel.app -->
 <!-- https://github-readme-stats.vercel.app -->

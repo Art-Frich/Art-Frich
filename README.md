@@ -44,12 +44,12 @@
 <hr>
 <h3 align="left"> 💻 Connect with me:</h3>
 <div align="center">
-  <img height="21px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <img height="21px" src="https://img.shields.io/badge/@Frich22-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   <br>
   <span>@Frich22</span>
 </div>
 <div>
- <img height="21px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ <img height="21px" src="https://img.shields.io/badge/frich.g22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  <span>frich.g22@gmail.com</span>
 </div>
 <!-- <div align="right">

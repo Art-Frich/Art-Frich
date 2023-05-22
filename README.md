@@ -10,7 +10,7 @@
 * 📚 Основной стек: JS, HTML5, CSS3. Знаком с Python, C#.
 * 😄 Подрабатываю репетитором по физике, математике и информатике.
 
-<div style="display: flex; flex-direction: row; align-items: flex-start">
+<div style="display: flex; flex-direction: column; align-items: flex-start">
  <img src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&theme=merko&layout=compact" />
 </div>

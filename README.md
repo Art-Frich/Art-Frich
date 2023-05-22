@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 
 [![My statistics](https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Art-Frich&repo=github-readme-stats&exclude_repo=Art-Frich&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Art-Frich&exclude_repo=Art-Frich&theme=merko)](https://github.com/anuraghazra/github-readme-stats)

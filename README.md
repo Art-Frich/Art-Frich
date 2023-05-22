@@ -14,7 +14,7 @@
  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />
  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&theme=merko&layout=compact" />
 </div>
-{***}
+[***]
 <div style="text-align: center;">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </div>

@@ -45,11 +45,11 @@
 <h3 align="left"> 💻 Connect with me:</h3>
 <p align="left">
  <div>
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <img heigh="15px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   <span>@Frich22</span>
  </div>
  <div>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img heigh="15px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <span>frich.g22@gmail.com</span>
  </div>
 </p>

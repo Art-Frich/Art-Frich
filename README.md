@@ -12,9 +12,9 @@
 
 <div>
  <img align="left" style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />
- <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" />
  <img align="right" style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&theme=merko&layout=compact" />
 </div>
-<!-- <hr>
+<hr>
 <div align="right">
-</div> -->
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</div>

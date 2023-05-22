@@ -27,6 +27,7 @@
      - Использовано: ванильный JS, CSS3, HTML5, jQuery.
      - Ссылка на проект: https://art-frich.github.io/project-find-a-pair/
 
+### 🏆 My Stats
 <!-- https://github-readme-stats-ruby-one.vercel.app -->
 <!-- github-readme-stats-sigma-five.vercel.app -->
 <!-- https://github-readme-stats.vercel.app -->
@@ -41,6 +42,17 @@
  <img src="https://leetcode-stats-six.vercel.app/api?username=Art-Frich&theme=dark">
 </div>
 <hr>
-<div align="right">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</div>
+<h3 align="left"> 💻 Connect with me:</h3>
+<p align="left">
+ <div>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <span>@Frich22</span>
+ </div>
+ <div>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <span>frich.g22@gmail.com</span>
+ </div>
+</p>
+<!-- <div align="right">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" - рандомные цитаты/>
+</div> -->

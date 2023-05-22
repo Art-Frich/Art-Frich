@@ -3,6 +3,9 @@
 <h1 align="center">Hi there, I'm Artem!
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=Art-Frich">
+</div>
 
 * ✨ Начинающий front-end-developer.
 * 🔥 Хочу стать отличным специалистом в своей области.
@@ -11,7 +14,6 @@
 * ⌛ Сейчас изучаю возможности React.
 * 📚 Основной стек: JS, HTML5, CSS3. Знаком с Python, C#.
 * 😄 Подрабатываю репетитором по физике, математике и информатике.
-![](https://komarev.com/ghpvc/?username=Art-Frich)
 
 <div align="center">
  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />

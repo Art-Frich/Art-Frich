@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 -->
 <div style="display: table-cell; vertical-align: top;">
 [![My statistics](https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 </div>
 <!-- доп репозиторий [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Art-Frich&repo=Mesto&exclude_repo=Art-Frich&theme=merko)] (https://github.com/anuraghazra/github-readme-stats)-->

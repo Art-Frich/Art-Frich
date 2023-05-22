@@ -11,6 +11,7 @@
 * ⌛ Сейчас изучаю возможности React.
 * 📚 Основной стек: JS, HTML5, CSS3. Знаком с Python, C#.
 * 😄 Подрабатываю репетитором по физике, математике и информатике.
+![](https://komarev.com/ghpvc/?username=Art-Frich)
 
 <div align="center">
  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />

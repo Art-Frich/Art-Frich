@@ -15,6 +15,6 @@
  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&theme=merko&layout=compact" />
 </div>
 <hr>
-<div style="text-align: center;">
+<div align="right">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </div>

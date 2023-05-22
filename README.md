@@ -4,7 +4,8 @@
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <div align="center">
- <img src="https://www.codewars.com/users/Frich22/badges/large?theme=merko">
+ <img src="https://www.codewars.com/users/Frich22/badges/large?theme=dark">
+ <img src="https://leetcode-stats-six.vercel.app/api?username=Art-Frich&theme=dark)">
 </div>
 
 * ✨ Начинающий front-end-developer.

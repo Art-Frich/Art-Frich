@@ -43,16 +43,14 @@
 </div>
 <hr>
 <h3 align="left"> 💻 Connect with me:</h3>
-<p align="left">
- <div>
-  <img height="24px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  <span>@Frich22</span>
- </div>
- <div>
-  <img height="24px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <span>frich.g22@gmail.com</span>
- </div>
-</p>
+<div>
+ <img height="24px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+ <span>@Frich22</span>
+</div>
+<div>
+ <img height="24px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ <span>frich.g22@gmail.com</span>
+</div>
 <!-- <div align="right">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" - рандомные цитаты/>
 </div> -->

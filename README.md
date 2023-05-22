@@ -43,9 +43,10 @@
 </div>
 <hr>
 <h3 align="left"> 💻 Connect with me:</h3>
+<p>
 <img height="21px" src="https://img.shields.io/badge/@Frich22-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 <img height="21px" src="https://img.shields.io/badge/frich.g22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-
+</p>
 <!-- <div align="right">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" - рандомные цитаты/>
 </div> -->

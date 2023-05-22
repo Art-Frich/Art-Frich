@@ -10,12 +10,15 @@
 * 📚 Основной стек: JS, HTML5, CSS3. Знаком с Python, C#.
 * 😄 Подрабатываю репетитором по физике, математике и информатике.
 
-<!-- <div style="display: flex; flex-direction: column; align-items: flex-start">
- <img src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&theme=merko&layout=compact" />
-</div> -->
-[![My statistics](https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&layout=default&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+ <img style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />
+ <img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&theme=merko&layout=compact" />
+</div>
+<div>
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</div>
+<!-- [![My statistics](https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&layout=default&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- доп репозиторий [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Art-Frich&repo=Mesto&exclude_repo=Art-Frich&theme=merko)] (https://github.com/anuraghazra/github-readme-stats) -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes) -->
 

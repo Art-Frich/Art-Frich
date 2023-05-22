@@ -43,9 +43,9 @@
 </div>
 <hr>
 <h3 align="left"> 💻 Connect with me:</h3>
-<div>
- <img height="21px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
- <span>@Frich22</span>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img height="21px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <span>@Frich22</span>
 </div>
 <div>
  <img height="21px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">

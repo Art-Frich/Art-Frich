@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: table-cell; vertical-align: top;">
 [![My statistics](https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-  <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!-- доп репозиторий [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Art-Frich&repo=Mesto&exclude_repo=Art-Frich&theme=merko)] (https://github.com/anuraghazra/github-readme-stats)-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=console.log('Hello%2C+World!');%3C%3E+Hello%2C+World!)](https://git.io/typing-svg)

@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=%3E+console.log('Hello%2C+World!');%3CHello%2C+World!)](https://git.io/typing-svg)
 ***
-### Hi there, I'm Artem 👋
+<h1 align="center">Hi there, I'm Artem!
+ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<div align="center">
+ <img src="https://www.codewars.com/users/Frich22/badges/large?theme=merko">
+</div>
 
 * ✨ Начинающий front-end-developer.
 * 🔥 Хочу стать отличным специалистом в своей области.

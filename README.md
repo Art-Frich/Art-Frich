@@ -46,8 +46,8 @@
 <div align="center">
  <img src="https://leetcode-stats-six.vercel.app/api?username=Art-Frich&theme=dark">
 </div>
-<hr>
 
+<!-- <hr> -->
 <!-- <div align="right">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" - рандомные цитаты/>
 </div> -->

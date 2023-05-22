@@ -7,7 +7,7 @@
  <img src="https://www.codewars.com/users/Frich22/badges/large?theme=dark">
 </div>
 <div align="center">
- <img src="https://leetcode-stats-six.vercel.app/api?username=Art-Frich?theme=dark)">
+ <img src="https://leetcode-stats-six.vercel.app/api?username=Art-Frich&theme=dark)">
 </div>
 
 * ✨ Начинающий front-end-developer.

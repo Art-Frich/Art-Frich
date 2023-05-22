@@ -3,13 +3,6 @@
 <h1 align="center">Hi there, I'm Artem!
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<div align="center">
- <img src="https://www.codewars.com/users/Frich22/badges/large?theme=dark">
-</div>
-<div align="center">
- <img src="https://leetcode-stats-six.vercel.app/api?username=Art-Frich&theme=dark)">
-</div>
-
 * ✨ Начинающий front-end-developer.
 * 🔥 Хочу стать отличным специалистом в своей области.
 * 👀 Нравится строить причинно-следственные цепочки и создавать логичный и нативно понятный код.
@@ -21,6 +14,12 @@
 <div align="center">
  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />
  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&theme=merko&layout=compact" />
+</div>
+<div align="center">
+ <img src="https://www.codewars.com/users/Frich22/badges/large?theme=dark">
+</div>
+<div align="center">
+ <img src="https://leetcode-stats-six.vercel.app/api?username=Art-Frich&theme=dark">
 </div>
 <hr>
 <div align="right">

@@ -19,9 +19,9 @@
      - Ссылка на проект: https://art-frich.github.io/testCase-siteOfHeadphones/
 
 * Один из первых кейсов - проект игры "найди пару". Ничего особенного, но реализованный проект радует мои глаза своей анимацией и дизайном.
-Функционал: переворачивать карточки по клику.
-Использовано: ванильный JS, CSS3, HTML5, jQuery.
-Ссылка на проект: https://art-frich.github.io/project-find-a-pair/
+     - Функционал: переворачивать карточки по клику.
+     - Использовано: ванильный JS, CSS3, HTML5, jQuery.
+     - Ссылка на проект: https://art-frich.github.io/project-find-a-pair/
 
 <div align="center">
  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />

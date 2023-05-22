@@ -31,7 +31,7 @@
 <!-- github-readme-stats-sigma-five.vercel.app -->
 <!-- https://github-readme-stats.vercel.app -->
 <div align="center">
- <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />
+ <img style="height: 150px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />
  <img style="height: 150px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Art-Frich&theme=merko&layout=compact" />
 </div>
 <div align="center">

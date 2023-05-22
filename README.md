@@ -10,11 +10,11 @@
 * 📚 Основной стек: JS, HTML5, CSS3. Знаком с Python, C#.
 * 😄 Подрабатываю репетитором по физике, математике и информатике.
 
-<div>
- <img style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />
- <img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&theme=merko&layout=compact" />
+<div style="margin: auto" >
+ <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />
+ <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&theme=merko&layout=compact" />
 </div>
-<div>
+<div style="margin: auto">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </div>
 <!-- [![My statistics](https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)

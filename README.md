@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 <!-- [![My statistics](https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&layout=default&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- доп репозиторий [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Art-Frich&repo=Mesto&exclude_repo=Art-Frich&theme=merko)] (https://github.com/anuraghazra/github-readme-stats)-->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes)]
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes)
 

@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-! Your Repository's Stats (https://github-readme-stats.vercel.app/api?Art-Frich&show_icons=true)
-! Your Repository's Stats (https://github-readme-stats.vercel.app/api/top-langs/?Art-Frich&theme=blue-green)
-! Profile View Counter (https://komarev.com/ghpvc/?Art-Frich)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Art-Frich)](https://github.com/anuraghazra/github-readme-stats)

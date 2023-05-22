@@ -11,8 +11,8 @@
 * 😄 Подрабатываю репетитором по физике, математике и информатике.
 
 <div>
- <img align="left" style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />
- <img align="right" style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&theme=merko&layout=compact" />
+ <img style="height: 150px; margin-left: 10px;" src="https://github-readme-stats.vercel.app/api?username=Art-Frich&show_icons=true&theme=merko" />
+ <img style="height: 150px; margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Frich&theme=merko&layout=compact" />
 </div>
 <hr>
 <div align="right">

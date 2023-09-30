@@ -31,7 +31,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
  </a> 
  <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://icons8.com/icon/asWSSTBrDlTW/react-a-javascript-library-for-building-user-interfaces" alt="react" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
  </a> 
 
  

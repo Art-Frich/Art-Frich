@@ -34,13 +34,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
  </a> 
   <a href="https://nodejs.org/ru/about" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodeJS" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodeJS" width="40" height="40"/> 
  </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="40" height="40"/> 
  </a> 
  <a href="https://expressjs.com/ru/" target="_blank" rel="noreferrer"> 
-  <img class="img" src="https://vectorified.com/images/express-js-icon-12.png" alt="Express" width="40" height="40"/> 
+  <img class="img" src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark.png" alt="Express" width="40" height="40"/> 
  </a> 
  <a href="https://www.postman.com/product/what-is-postman/" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/> 

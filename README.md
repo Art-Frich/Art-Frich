@@ -40,16 +40,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="40" height="40"/> 
  </a> 
  <a href="https://expressjs.com/ru/" target="_blank" rel="noreferrer"> 
-  <img src="https://vectorified.com/images/express-js-icon-12.png" alt="Express" width="40" height="40" object-fit="cover" border-radius="3px"/> 
+  <img class="img" src="https://vectorified.com/images/express-js-icon-12.png" alt="Express" width="40" height="40"/> 
  </a> 
  <a href="https://www.postman.com/product/what-is-postman/" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/> 
  </a> 
  <a href="https://nginx.org/ru/" target="_blank" rel="noreferrer"> 
-  <img src="https://notes.portebois.net/2017/03/24/nginx-rate-limiting-in-a-nutshell/nginx-logo.png" alt="Nginx" width="40" height="40" border-radius="3px"/> 
+  <img class="img" src="https://notes.portebois.net/2017/03/24/nginx-rate-limiting-in-a-nutshell/nginx-logo.png" alt="Nginx" width="40" height="40"/> 
  </a> 
 
 
+<style>
+  .img {
+    border-radius: 3px;
+    object-fit: cover;
+  }
+</style>
 
 
 <!--  <a href="" target="_blank" rel="noreferrer"> 

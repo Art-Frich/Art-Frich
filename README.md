@@ -33,6 +33,29 @@
  <a href="https://react.dev" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
  </a> 
+  <a href="https://nodejs.org/ru/about" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodeJS" width="40" height="40"/> 
+ </a>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://expressjs.com/ru/" alt="mongoDB" width="40" height="40"/> 
+ </a> 
+ <a href="https://expressjs.com/ru/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> 
+ </a> 
+ <a href="https://www.postman.com/product/what-is-postman/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/> 
+ </a> 
+ <a href="https://nginx.org/ru/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Nginx" width="40" height="40"/> 
+ </a> 
+
+
+
+
+<!--  <a href="" target="_blank" rel="noreferrer"> 
+  <img src="" alt="" width="40" height="40"/> 
+ </a> 
+ -->
 
  
 </p>

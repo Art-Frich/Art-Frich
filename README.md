@@ -23,24 +23,30 @@
 
 <h3 align="left">📦 Знакомый инструментарий</h3>
 <p align="left"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodeJS" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongoDB" width="40" height="40"/> 
-<img class="img" src="https://i.pinimg.com/236x/95/9e/83/959e83612cb4926fc3a8914f65278293.jpg?nii=t" title="Express" width="40" height="40"/>
-<img class="img" src="https://notes.portebois.net/2017/03/24/nginx-rate-limiting-in-a-nutshell/nginx-logo.png" title="Nginx" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="figma" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" title="webpack" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="redux" width="40" height="40"/>    
- 
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="material UI" width="40" height="40"/>
-* Husky
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="story-book" width="40" height="40"/>
-* vitest
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodeJS" width="40" height="40"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongoDB" width="40" height="40"/> 
+ <img class="img" src="https://i.pinimg.com/236x/95/9e/83/959e83612cb4926fc3a8914f65278293.jpg?nii=t" title="Express" width="40" height="40"/>
+ <img class="img" src="https://notes.portebois.net/2017/03/24/nginx-rate-limiting-in-a-nutshell/nginx-logo.png" title="Nginx" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="figma" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" title="webpack" width="40" height="40"/>  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="story-book" width="40" height="40"/>
 </p>
 <p align="left">
-<img src="https://img.shields.io/badge/React%20Hook%20Form-blue.svg?style=for-the-badge&logo=reacthookform&logoColor=white" title="React-Hook-Form"/>
-<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" title="sass"/>
+ <img src="https://img.shields.io/badge/SASS-100000?style=for-the-badge&logo=SASS&logoColor=white" title="sass"/>
+ <img src="https://img.shields.io/badge/React_Hook_Form-100000?style=for-the-badge&logo=reacthookform" alt="React Hook Form" title="React Hook Form">
+ <img src="https://img.shields.io/badge/Redux_Toolkit_Query-100000?style=for-the-badge&logo=redux" alt="Redux Toolkit Query" title="Redux Toolkit Query">
+<br />
+ <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker">
+ <img src="https://img.shields.io/badge/MaterialUI-100000?style=for-the-badge&logo=mui" alt="MaterialUI" title="MaterialUI">
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub">
+<br />
+ <img src="https://img.shields.io/badge/React_Router-100000?style=for-the-badge&logo=reactrouter" alt="React Router" title="React Router">
+ <img src="https://img.shields.io/badge/CSS_Modules-100000?style=for-the-badge&logo=cssmodules" alt="CSS Modules" title="CSS Modules">
+ <img src="https://img.shields.io/badge/Yup-100000?style=for-the-badge" alt="Yup" title="Yup">
+ <img src="https://img.shields.io/badge/Vitest-100000?style=for-the-badge" alt="Vitest" title="Vitest">
 </p>
+
+
 
 <p>Знаком с Python, C#.</p>
 <h3 align="left"> 💻 Connect with me:</h3>

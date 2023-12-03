@@ -12,58 +12,45 @@
 * 😄 Подрабатываю репетитором физике и математике.
 <h3 align="left">📚 Основной стек:</h3>
 <p align="left"> 
- <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" width="40" height="40"/> 
- </a>
- <a href="https://nodejs.org/ru/about" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodeJS" width="40" height="40"/> 
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" width="40" height="40"/>  
- </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typeScript" width="40" height="40"/>  
- </a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" width="40" height="40"/> 
- </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" width="40" height="40"/> 
- </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" width="40" height="40"/> 
- </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongoDB" width="40" height="40"/> 
- </a> 
- <a href="https://expressjs.com/ru/" target="_blank" rel="noreferrer"> 
-  <img class="img" src="https://i.pinimg.com/236x/95/9e/83/959e83612cb4926fc3a8914f65278293.jpg?nii=t" title="Express" width="40" height="40"/> 
- </a> 
- <a href="https://www.postman.com/product/what-is-postman/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" width="40" height="40"/> 
- </a> 
- <a href="https://nginx.org/ru/" target="_blank" rel="noreferrer"> 
-  <img class="img" src="https://notes.portebois.net/2017/03/24/nginx-rate-limiting-in-a-nutshell/nginx-logo.png" title="Nginx" width="40" height="40"/> 
- </a> 
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="figma" width="40" height="40"/> 
- </a> 
- <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" title="webpack" width="40" height="40"/> 
- </a> 
-
-<!--  <a href="" target="_blank" rel="noreferrer"> 
-  <img src="" title="" width="40" height="40"/> 
- </a> 
- -->
-
- 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" width="40" height="40"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typeScript" width="40" height="40"/>  
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" width="40" height="40"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" width="40" height="40"/> 
+ <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" width="40" height="40"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" title="Vite"  width="40" height="40"/> 
 </p>
+
+<h3 align="left">📦 Знакомый инструментарий</h3>
+<p align="left"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodeJS" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongoDB" width="40" height="40"/> 
+<img class="img" src="https://i.pinimg.com/236x/95/9e/83/959e83612cb4926fc3a8914f65278293.jpg?nii=t" title="Express" width="40" height="40"/>
+<img class="img" src="https://notes.portebois.net/2017/03/24/nginx-rate-limiting-in-a-nutshell/nginx-logo.png" title="Nginx" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="figma" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" title="webpack" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="redux" width="40" height="40"/>    
+ 
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="material UI" width="40" height="40"/>
+* Husky
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="story-book" width="40" height="40"/>
+* vitest
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/React%20Hook%20Form-blue.svg?style=for-the-badge&logo=reacthookform&logoColor=white" title="React-Hook-Form"/>
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" title="sass"/>
+</p>
+
 <p>Знаком с Python, C#.</p>
 <h3 align="left"> 💻 Connect with me:</h3>
 <p>
-[![Telegram](https://img.shields.io/badge/@Frich22-2CA5E0?style=default&logo=telegram&logoColor=white)](https://t.me/Frich22)
-[![Email](https://img.shields.io/badge/frich.g22@gmail.com-D14836?style=default&logo=gmail&logoColor=white)](mailto:frich.g22@gmail.com)
+<a href="https://t.me/Frich22" target="_blank">
+ <img height="21px" src="https://img.shields.io/badge/@Frich22-2CA5E0?style=default&logo=telegram&logoColor=white">
+</a>
+<a href="mailto:frich.g22@gmail.com" target="_blank"> 
+ <img height="21px" src="https://img.shields.io/badge/frich.g22@gmail.com-D14836?style=default&logo=gmail&logoColor=white">
+</a>
 </p>
 <hr>
 <h3 align="center">🏆 My Stats</h3>

@@ -62,7 +62,9 @@
 <p>Знаком с Python, C#.</p>
 <h3 align="left"> 💻 Connect with me:</h3>
 <p>
-<img height="21px" src="https://img.shields.io/badge/@Frich22-2CA5E0?style=default&logo=telegram&logoColor=white">
+<a href="tg://resolve?domain=@Frich22" target="_blank">
+ <img height="21px" src="https://img.shields.io/badge/@Frich22-2CA5E0?style=default&logo=telegram&logoColor=white">
+</a>
 <img height="21px" src="https://img.shields.io/badge/frich.g22@gmail.com-D14836?style=default&logo=gmail&logoColor=white">
 </p>
 <hr>

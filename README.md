@@ -39,6 +39,7 @@
  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker">
  <img src="https://img.shields.io/badge/MaterialUI-100000?style=for-the-badge&logo=mui" alt="MaterialUI" title="MaterialUI">
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub">
+ <img src="https://img.shields.io/badge/Husky-100000?style=for-the-badge" alt="Husky" title="Husky">
 <br />
  <img src="https://img.shields.io/badge/React_Router-100000?style=for-the-badge&logo=reactrouter" alt="React Router" title="React Router">
  <img src="https://img.shields.io/badge/CSS_Modules-100000?style=for-the-badge&logo=cssmodules" alt="CSS Modules" title="CSS Modules">

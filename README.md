@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=%3E+console.log('Hello%2C+World!');%3CHello%2C+World!)](https://git.io/typing-svg)
 ***
-<h1 align="center">Hi there, I'm Artem!
+<h1 align="center">Привет! Меня зовут Артём.
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-* ✨ Front-end-developer.
+* ✨ Ищу работу на должность Front-end-developer.
 * 🔥 Хочу стать отличным специалистом в своей области.
 * 👀 Нравится строить причинно-следственные цепочки и создавать логичный, интуитивно понятный код.
-* 🐾 Понемногу разбираюсь в vitest, scss.
-* ⌛ Поддерживаю проект на Redux Toolkit, React-hook-form, MUI.
+* 🐾 Понемногу разбираюсь в fsd, scss.
+* ⌛ Работаю над сервисом по поиску ближайшей поликлиники.
 * 😄 Подрабатываю репетитором физике и математике.
 <h3 align="left">📚 Основной стек:</h3>
 <p align="left"> 
@@ -42,7 +42,7 @@
  <img src="https://img.shields.io/badge/Husky-100000?style=for-the-badge" alt="Husky" title="Husky">
 <br />
  <img src="https://img.shields.io/badge/React_Router-100000?style=for-the-badge&logo=reactrouter" alt="React Router" title="React Router">
- <img src="https://img.shields.io/badge/CSS_Modules-100000?style=for-the-badge&logo=cssmodules" alt="CSS Modules" title="CSS Modules">
+<!--  <img src="https://img.shields.io/badge/CSS_Modules-100000?style=for-the-badge&logo=cssmodules" alt="CSS Modules" title="CSS Modules"> -->
  <img src="https://img.shields.io/badge/Yup-100000?style=for-the-badge" alt="Yup" title="Yup">
  <img src="https://img.shields.io/badge/Vitest-100000?style=for-the-badge" alt="Vitest" title="Vitest">
 </p>

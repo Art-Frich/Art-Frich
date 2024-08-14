@@ -4,12 +4,12 @@
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-* ✨ Ищу работу на должность Front-end-developer.
+* ✨ Ищу работу на должность Front-end-developer, в меру full-stack.
 * 🔥 Хочу стать отличным специалистом в своей области.
 * 👀 Нравится строить причинно-следственные цепочки и создавать логичный, интуитивно понятный код.
-* 🐾 Привожу в порядок проекты, недовольно смотрю на отсутствие тестов.
+* 🐾 Недовольно смотрю на отсутствие тестов.
 * ⌛ Читаю "React - сборник рецептов 2023"
-* 😄 Подрабатываю репетитором физике и математике.
+* 😄 Катаюсь на велосипеде в соседнее село.
 <h3 align="left">📚 Основной стек:</h3>
 <p align="left"> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" width="40" height="40"/> 
